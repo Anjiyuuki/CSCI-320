@@ -1,0 +1,4 @@
+
+mk dir nameFile (creating a directory) 
+cd hello(dir)
+node nameFile.js
